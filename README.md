@@ -9,9 +9,13 @@
 ### Installation
 
 - To download and run it locally, do the following:
+
 git clone https://github.com/levu48/movies
+
 cd movies
+
 npm install 
+
 npm start
 
 - Then point your browser to http://localhost:3000 to see the webapp.
