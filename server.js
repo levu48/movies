@@ -8,7 +8,7 @@ var datafile = path.join(__dirname + '/data.json');
 
 app.use('/', express.static('public'));
 app.get('/detail', function(req, res) {
-    res.sendFile(path.join(__dirname + '/public/detail.html')); //'GET /detail ' + req.query.i);
+    res.sendFile(path.join(__dirname + '/public/detail.html')); 
 });
 
 app.get('/addfav', function(req, res) {
