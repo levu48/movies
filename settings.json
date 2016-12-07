@@ -1,8 +1,0 @@
-{ 
-    "galaxy.meteor.com": { 
-        "env": { 
-            "ROOT_URL": "http://wdiga.meteor.com", 
-            "MONGO_URL": ""
-        } 
-    }
-}
