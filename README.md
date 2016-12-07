@@ -11,7 +11,7 @@ The webapp is being deployed at https://wdi.meteorapp.com
 To download and run it locally, do the following:
 
 ```txt
-git clone https://github.com/levu48/movies
+git clone https://github.com/levu48/movies movies
 cd movies
 npm install 
 npm start
